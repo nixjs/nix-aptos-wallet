@@ -57,3 +57,7 @@ await window.nixwallet.getNetworks(): Promise<{
         type: 'testnet' | 'mainnet' | 'Devnet'
     }[]>
 ```
+
+## getBalance
+
+Coming soon

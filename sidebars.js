@@ -31,6 +31,8 @@ const sidebars = {
         "integrating/detecting-the-provider",
         "integrating/establishing-a-connection",
         "integrating/account-data",
+        "integrating/signing-a-message",
+        "integrating/errors",
       ],
     },
     {
