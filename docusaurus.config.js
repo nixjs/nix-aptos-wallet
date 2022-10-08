@@ -60,7 +60,8 @@ const config = {
         title: "Nix Aptos Wallet",
         logo: {
           alt: "Nix Aptos Wallet Logo",
-          src: "img/Aptos-dark.svg",
+          src: "img/Aptos-light.svg",
+          srcDark: "img/Aptos-dark.svg",
         },
         items: [
           {
