@@ -24,6 +24,16 @@ const sidebars = {
       id: "intro",
     },
     {
+      type: "category",
+      label: "Extension and In-app browser",
+      collapsed: false,
+      items: [
+        "integrating/detecting-the-provider",
+        "integrating/establishing-a-connection",
+        "integrating/account-data",
+      ],
+    },
+    {
       type: "doc",
       label: "Privacy policy",
       id: "privacy-policy",

@@ -1,0 +1,20 @@
+{
+    "root": true,
+    "env": {
+        "browser": true
+    },
+    "rules": {
+        "import/no-unresolved": [
+            "off",
+            {
+                "ignore": [
+                    "^@theme",
+                    "^@docusaurus",
+                    "^@generated",
+                    "unist",
+                    "mdast"
+                ]
+            },
+        ],
+    }
+}
