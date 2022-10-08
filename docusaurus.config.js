@@ -9,7 +9,7 @@ const config = {
   title: "Nix Aptos Wallet",
   tagline:
     "The Nix Aptos Wallet Browser Extension acts as your portal to the Web3 world",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://nix-aptos-wallet.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -60,7 +60,7 @@ const config = {
         title: "Nix Aptos Wallet",
         logo: {
           alt: "Nix Aptos Wallet Logo",
-          src: "img/logo.svg",
+          src: "img/Aptos-dark.svg",
         },
         items: [
           {
