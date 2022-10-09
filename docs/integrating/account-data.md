@@ -60,4 +60,9 @@ await window.nixwallet.getNetworks(): Promise<{
 
 ## getBalance
 
-Coming soon
+```javascript
+await window.nixwallet.getBalance(): Promise<{
+        amount: string
+    }>
+```
+
