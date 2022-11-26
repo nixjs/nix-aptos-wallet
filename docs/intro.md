@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Introduction
 
-## What is Nix Aptos Wallet?
+## What is Nix MOVE Wallet?
 
 Browser Extension acts as your portal to the Web3 world. A friendly crypto wallet
 
-**Nix Aptos Wallet** makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Aptos blockchain.
+**Nix MOVE Wallet** makes it safe & easy for you to store, buy, send, receive, swap tokens and collect NFTs on the Aptos/SUI blockchain.
 
 ## Install Chrome Extensions
 

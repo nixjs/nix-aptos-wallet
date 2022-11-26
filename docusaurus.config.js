@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Nix Aptos Wallet",
+  title: "Nix MOVE Wallet",
   tagline:
-    "The Nix Aptos Wallet Browser Extension acts as your portal to the Web3 world",
+    "The Nix MOVE Wallet Browser Extension acts as your portal to the Web3 world",
   url: "https://nix-aptos-wallet.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Nix Aptos Wallet",
+        title: "Nix MOVE Wallet",
         logo: {
-          alt: "Nix Aptos Wallet Logo",
+          alt: "Nix MOVE Wallet Logo",
           src: "img/Aptos-light.svg",
           srcDark: "img/Aptos-dark.svg",
         },

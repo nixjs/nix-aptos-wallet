@@ -4,12 +4,12 @@ sidebar_position: 1
 
 # Establishing a Connection
 
-Once an application has detected the provider, it can then request to connect to Aptos. This connection request will prompt the user for permission to share their public key, indicating that they are willing to interact further. Users must approve a connection request before the app can make additional requests such as signing a message or sending a transaction.
+Once an application has detected the provider, it can then request to connect to Aptos/SUI. This connection request will prompt the user for permission to share their public key, indicating that they are willing to interact further. Users must approve a connection request before the app can make additional requests such as signing a message or sending a transaction.
 Once permission is established for the first time, the web application's domain will be whitelisted for future connection requests. After a connection is established, it is possible to terminate the connection from both the application and the user side.
 
 ## Connecting
 
-The recommended and easiest way to connect to Aptos is by calling:
+The recommended and easiest way to connect to Aptos/SUI is by calling:
 
 ```javascript
 await window.nixwallet.connect(): Promise<{
@@ -26,7 +26,7 @@ await window.nixwallet.connect(): Promise<{
 
 ## Disconnecting
 
-When you want the web app to forget about the connection status with Nix Aptos Wallet, you can do this by calling `nixwallet.disconnect()` in your web app. See below:
+When you want the web app to forget about the connection status with Nix MOVE Wallet, you can do this by calling `nixwallet.disconnect()` in your web app. See below:
 
 ```javascript
 await window.nixwallet.disconnect(): Promise<{
@@ -36,7 +36,7 @@ await window.nixwallet.disconnect(): Promise<{
     }>
 ```
 
-**NOTE**: After disconnecting, the web app must reconnect to Nix Aptos Wallet to make requests.
+**NOTE**: After disconnecting, the web app must reconnect to Nix MOVE Wallet to make requests.
 
 ## Changing Accounts
 

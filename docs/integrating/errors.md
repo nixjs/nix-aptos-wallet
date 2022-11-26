@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Errors
 
-When making requests to Nix Aptos Wallet in Establishing a Connection, Sending a Transaction, or Signing a Message, Nix Aptos Wallet may respond with an error. The following is a list of all possible error codes and their meanings.
+When making requests to Nix MOVE Wallet in Establishing a Connection, Sending a Transaction, or Signing a Message, Nix MOVE Wallet may respond with an error. The following is a list of all possible error codes and their meanings.
 
 | Code   |      Title      |  Description |
 |:----------:|:-------------|:------|

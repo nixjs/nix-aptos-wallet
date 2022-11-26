@@ -32,6 +32,7 @@ const sidebars = {
         "integrating/establishing-a-connection",
         "integrating/account-data",
         "integrating/signing-a-message",
+        "integrating/sending-a-transaction",
         "integrating/errors",
       ],
     },
