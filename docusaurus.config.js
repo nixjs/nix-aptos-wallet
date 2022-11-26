@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Nix MOVE Wallet",
   tagline:
-    "The Nix MOVE Wallet Browser Extension acts as your portal to the Web3 world",
+    "The Nix MOVE Wallet Browser Extension acts as your portal to the Web3 world on Aptos/SUI blockchain.",
   url: "https://nix-aptos-wallet.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -78,7 +78,7 @@ const config = {
         ],
       },
       footer: {
-        copyright: `Created with 💖 by <a target="_blank" rel="noopener noreferrer" href="https://github.com/nixjs/grpc-client-toolkit">@nixjs</a>. Built with Docusaurus.`,
+        copyright: `Created with 💖 by <a target="_blank" rel="noopener noreferrer" href="https://github.com/nixjs">@nixjs</a>. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
